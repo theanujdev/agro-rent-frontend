@@ -1,12 +1,15 @@
 {
   "name": "agro-rent-frontend",
   "version": "0.1.0",
+  "description": "Frontend of agro rent app built with React, Axios, React-router-dom v6 & Bootstrap",
+  "author": "Anuj Sharma",
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.10.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.24.0",
     "bootstrap": "^5.1.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
