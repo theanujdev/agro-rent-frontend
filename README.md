@@ -59,7 +59,7 @@ If you have any feedback, please reach out at [@theanujdev](https://twitter.com/
 
 ## Authors
 
-- [@theanujdev](https://www.github.com/ProdexOne)
+- [@theanujdev](https://www.github.com/theanujdev)
 
 ## License
 
